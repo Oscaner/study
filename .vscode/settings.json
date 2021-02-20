@@ -1,0 +1,22 @@
+{
+  "files.associations": {
+    "*.html": "html",
+    "*.js": "javascript",
+    "*.tpl": "html",
+    "*.module": "php",
+    "*.theme": "php",
+    "*.php": "php",
+    ".php_cs": "php",
+    ".php_cs.dist": "php",
+    "*.inc": "php",
+    "*.install": "php",
+    "*.tpl.php": "php",
+    "*.test": "php",
+    "*.info": "ini",
+    "*.seospiderconfig": "plaintext",
+    "*.j2": "jinja",
+    "*.profile": "php",
+    "stdio.h": "c",
+    "algorithm": "c"
+  }
+}
