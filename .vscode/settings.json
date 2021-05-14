@@ -17,6 +17,7 @@
     "*.j2": "jinja",
     "*.profile": "php",
     "stdio.h": "c",
-    "algorithm": "c"
+    "algorithm": "c",
+    "__node_handle": "c"
   }
 }
